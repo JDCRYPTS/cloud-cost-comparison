@@ -1,7 +1,7 @@
 # Calculator Estimates
 
 ## AWS Estimate
-Lhttps://calculator.aws/#/estimate?id=c2cee660fb62fa2e2161cb284f043ea42ebc8dfcink: (to be added)
+https://calculator.aws/#/estimate?id=d8f3cb95fe8871f31e2b4aa36ae2bed96ac36dba
 
 ## Azure Estimate
-Link: (to be added)
+https://azure.com/e/3e2ed7077b2944b196b3faead5ff83de
