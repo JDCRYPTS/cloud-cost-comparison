@@ -34,7 +34,7 @@ Notes:
 - gp2 storage was selected as gp3 was not available 
   in the calculator at the time of estimation.
 
-AWS Estimate Link: (paste your AWS link here)
+AWS Estimate Link: (https://calculator.aws/#/estimate?id=a731804529e7bc7fcffacdacfd851a765aef7b4c)
 
 ## 4. Azure Cost Breakdown
 
@@ -55,7 +55,7 @@ Notes:
 - Data retrieval (100 GB) was used as the closest 
   available option to egress in the Azure calculator.
 
-Azure Estimate Link: (paste your Azure link here)
+Azure Estimate Link: (https://azure.com/e/3e2ed7077b2944b196b3faead5ff83de)
 
 ## 5. Networking Cost Analysis
 
