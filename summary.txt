@@ -1,1 +1,46 @@
-Provider justification summary. Content coming soon.
+AWS vs Azure: Provider Justification Summary
+
+Scenario A: Microsoft-Centric Enterprise
+
+For a business already using Microsoft products such as 
+Windows Server, SQL Server, Microsoft 365, or Active 
+Directory, Azure is the more cost-effective choice. 
+
+Our testing showed that enabling Azure Hybrid Benefit 
+on a Windows VM reduced the monthly cost from $137.24 
+to $70.08, a saving of $67.16 per month or $805.92 per 
+year on a single server. This benefit is available to 
+any business that already owns Microsoft licenses through 
+a Volume Licensing agreement, meaning they are not paying 
+for something new but simply reusing what they already own.
+
+Beyond cost, Azure integrates natively with Microsoft 
+Entra ID for identity management, connects seamlessly 
+with Microsoft 365 services, and provides strong support 
+for .NET applications. For a Microsoft-stack enterprise, 
+the total cost of ownership is lower on Azure when all 
+integration and licensing factors are considered, not 
+just the raw compute price.
+
+Scenario B: Linux-Based Startup
+
+For a startup running an open-source stack such as 
+Node.js, Python, or PHP on Linux, AWS is the stronger 
+choice. Our estimates showed AWS coming in at $46.05 
+per month compared to Azure at $196.75 per month for 
+a comparable setup, a significant difference for a 
+budget-conscious startup.
+
+AWS also offers a 12-month Free Tier that allows new 
+businesses to test and iterate at minimal cost during 
+early development. Its broader global infrastructure, 
+larger marketplace of pre-configured solutions, and 
+more mature open-source ecosystem make it the practical 
+choice for teams building on Linux.
+
+Conclusion
+
+Neither provider is universally better. The right choice 
+depends entirely on the business context. Microsoft-based 
+enterprises benefit more from Azure while Linux-based 
+startups benefit more from AWS.
